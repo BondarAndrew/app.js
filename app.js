@@ -3,6 +3,9 @@ let b = 12;
 let p = (c + b) * 2;
 alert(p);
 
+let s = c * b;
+alert(s);
+
 let a = 100;
 let one = a + 10;
 let two = a * 20;
